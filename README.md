@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hello, I am Agustín García!
 
-<!--
-**agarciaprogrammer/agarciaprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer based in Argentina, focused on building scalable web applications with modern technologies like **Node.js**, **Express.js**, **TypeScript**, and **REST APIs**.
 
-Here are some ideas to get you started:
+I enjoy working with **PostgreSQL**, **MongoDB**, and using tools like **Docker**, **Git**, and **AWS** to create clean, modular, and maintainable systems. I thrive in agile environments and love contributing to end-to-end solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always learning and looking to join teams where I can grow as a developer and add real technical value.
+
+## 🧰 Tech Stack
+
+**🖥️ Backend:**  
+Node.js · Express.js · Python (scripts) · JWT · RESTful APIs
+
+**🎨 Frontend:**  
+React · JavaScript · TypeScript · HTML · CSS · Chart.js
+
+**🗄️ Databases:**  
+PostgreSQL · MongoDB · MySQL · SQL Server · Sequelize (ORM)
+
+**🔧 Tools & DevOps:**  
+Git · GitHub · Docker (basic) · AWS (basic)
+
+**🧠 Methodologies:**  
+Agile (Scrum) · Git-based workflows
+
+**🌍 Languages:**  
+Spanish (native) · English (B2/C1 – technical and conversational)
+
+---
+
+📫 **Let's connect!**  
+GitHub: [agarciaprogrammer](https://github.com/agarciaprogrammer)  
+LinkedIn: [linkedin.com/in/agarciaprogrammer](https://linkedin.com/in/agarciaprogrammer)
