@@ -30,4 +30,4 @@ Spanish (native) · English (B2/C1 – technical and conversational)
 
 📫 **Let's connect!**  
 GitHub: [agarciaprogrammer](https://github.com/agarciaprogrammer)  
-LinkedIn: [linkedin.com/in/agarciaprogrammer](https://linkedin.com/in/agarciaprogrammer)
+LinkedIn: [Agustin Garcia](https://www.linkedin.com/in/agustingarcia-it/)
