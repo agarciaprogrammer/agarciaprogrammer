@@ -1,6 +1,6 @@
 ## Hello, I am Agustín García!
 
-I'm a Full Stack Developer based in Argentina, focused on building scalable web applications with modern technologies like **Node.js**, **Express.js**, **TypeScript**, and **REST APIs**.
+I'm a Full Stack Developer based in Argentina, focused on building scalable web applications with modern technologies like **Node.js**, **Express.js**, **JavaScript**, and **REST APIs**.
 
 I enjoy working with **PostgreSQL**, **MongoDB**, and using tools like **Docker**, **Git**, and **AWS** to create clean, modular, and maintainable systems. I thrive in agile environments and love contributing to end-to-end solutions.
 
