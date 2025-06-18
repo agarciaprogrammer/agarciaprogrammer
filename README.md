@@ -9,7 +9,7 @@ I'm always learning and looking to join teams where I can grow as a developer an
 ## 🧰 Tech Stack
 
 **🖥️ Backend:**  
-Node.js · Express.js · Python (scripts) · JWT · RESTful APIs
+Node.js · Express.js · Python · JWT · RESTful APIs
 
 **🎨 Frontend:**  
 React · JavaScript · TypeScript · HTML · CSS · Chart.js
