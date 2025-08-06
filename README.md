@@ -1,10 +1,15 @@
 ## Hello, I am Agustín García!
 
-I'm a Full-stack Developer & DevOps Engineer based in Buenos Aires, Argentina. 
+I'm a Full-stack Developer & DevOps Engineer based in Buenos Aires, Argentina.
+
 I have **1+ year** of hands‑on experience building and deploying scalable web applications using **React**, **Next.js**, **Node.js**, and **PostgreSQL**. 
+
 Proficient in integrating AI workflows with **LangChain**, **OpenAI**, and **RAG** techniques to automate complex processes. 
+
 Strong backend focus with clean architecture, microservices, and DevOps pipelines (Docker, GitHub Actions, AWS). 
+
 Fast executor: delivered full‑stack AI‑driven MVPs in **<6h hackathons**; driven by automation and design clarity.
+
 
 ## 🧰 Tech Stack
 
