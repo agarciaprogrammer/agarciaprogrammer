@@ -41,7 +41,7 @@ Spanish (Native) · English (C1 – technical & conversational)
 
 ## 💼 Professional Experience
 
-**Research Project Member (Academic Internship)** – CAETI
+**Software Developer (Academic Internship)** – CAETI
 *Mar 2024 – Dec 2024*
 
 * Designed a modular microservices architecture for academic platforms.
