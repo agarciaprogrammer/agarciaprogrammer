@@ -24,8 +24,7 @@ Next.js · React · TypeScript · JavaScript · TailwindCSS · Chart.js · HTML/
 PostgreSQL · MongoDB · SQL Server · Supabase · NoSQL  
 
 **🔧 DevOps & Cloud:**  
-Docker · GitHub Actions · Terraform · AWS · GCP ·  
-Kubernetes · ArgoCD · Linux (Arch) · Bash · Systemd  
+Docker · GitHub Actions · Terraform · AWS · GCP · Kubernetes · ArgoCD · Linux (Arch) · Bash · Systemd  
 
 **📊 Monitoring & Security:**  
 Grafana · Prometheus · Trivy · CloudWatch · SSH · DNS  
