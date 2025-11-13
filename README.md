@@ -5,7 +5,7 @@ Graduated in **Software Engineering** (UAI, 2024).
 
 I design and deploy scalable web platforms with a strong DevOps mindset — blending **automation**, **monitoring**, and **clean architecture** to move from prototype to production fast.
 
-- 💻 **1+ year** building and deploying full-stack applications.  
+- 💻 **2 yearS** building and deploying full-stack applications.  
 - ☁️ Experienced with **Docker**, **Terraform**, **Kubernetes**, **AWS**, and **GCP**.  
 - ⚙️ Obsessed with CI/CD pipelines, observability, and infrastructure-as-code.  
 - 🚀 Delivered international freelance projects with 5-star client feedback.
